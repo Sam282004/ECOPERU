@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T00:24:16.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="OqrGmMOuDHCGoRIyPqHw" type="github">
-  <diagram name="Página-1" id="tTz7PbqIIX4I3KeNusyo">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-06-13T01:09:00.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QcO3kXm8ki5zh6i2nfgt" version="21.3.8" type="github">
+  <diagram name="Página-1" id="WMEyhKcaEuoWZAi4I8aA">
+    <mxGraphModel dx="956" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ykfq-Mn2FvsRfk3gHk8i-3" value="&lt;font&gt;&lt;b&gt;Region_Costa&lt;/b&gt;&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;html=1;fillColor=#F2F200;strokeColor=#F2F200;swimlaneLine=1;swimlaneFillColor=#ffffff;fontColor=#000000;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="30" y="585" width="160" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
